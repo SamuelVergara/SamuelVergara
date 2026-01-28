@@ -14,7 +14,7 @@
 ## 🔬 Perfil / About
 
 ### Español  
-Académico e investigador del Departamento de Ingeniería Eléctrica de la UCSC (Chile). Doctor en Ingeniería Eléctrica, con investigación enfocada en **automatización**, **instrumentación avanzada**, **tomografía de impedancia eléctrica (EIT)** e **inteligemcia artificial aplicada**. Participo activamente en proyectos de I+D con financiamiento nacional y en colaboración academia–industria.
+Académico e investigador del Departamento de Ingeniería Eléctrica de la UCSC (Chile). Doctor en Ingeniería Eléctrica, con investigación enfocada en **automatización**, **instrumentación avanzada**, **tomografía de impedancia eléctrica (EIT)** e **inteligencia artificial aplicada**. Participo activamente en proyectos de I+D con financiamiento nacional y en colaboración academia–industria.
 
 ### English  
 Assistant Professor and researcher at the Department of Electrical Engineering, UCSC (Chile). Ph.D. in Electrical Engineering, with research focused on **automation**, **advanced instrumentation**, **electrical impedance tomography (EIT)**, and **applied IA**. Actively involved in nationally funded R&D projects and academia–industry collaboration.
@@ -41,11 +41,9 @@ Assistant Professor and researcher at the Department of Electrical Engineering, 
 - Linear systems
 - Process modelling  
 
-🔗 ORCID: https://orcid.org/0000-0002-1927-674X
-
 🔹🔹🔹
 
 ## ⚡ Collaboration & Contact
 
-Open to academic and industrial collaboration .
+Open to academic and industrial collaboration ![email](assets/email.png).
 
